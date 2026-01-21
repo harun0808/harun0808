@@ -11,8 +11,8 @@ Merhaba ben Harun Karabacak, Şu an ağırlıklı olarak modern web teknolojiler
 
 ###
 
-* **Avukatlar İçin AI Karar Arama Botu:** Selenium ile otomasyon yapan, Django back-endinin yazıldığı sistem.
-* **Full-Stack Web Geliştirmeler:** Laravel, Vue.js ve CodeIgniter tabanlı esnaf ve müşteri ihtiyaçlarına yönelik profesyonel web site kurulumları.
+* **Avukatlar İçin AI Karar Arama Botu:** Selenium ile otomasyon yapan, Django ile back-endinin yazıldığı sistem.
+* **Full-Stack Web Geliştirmeler:** Laravel, Vue.js ve CodeIgniter tabanlı esnaf ve müşteri ihtiyaçlarına yönelik profesyonel web site yazılımları.
 * **Öğrenci Takip Sistemi:** Laravel ve Vue.js mimarisiyle geliştirilen kapsamlı takip ve yönetim mekanizması.
 * **Masaüstü Borsa Uygulaması:** Java ile geliştirilen; veri takibi, portföy oluşturma ve karşılaştırmalı analiz sunan 3 katmanlı uygulama.
 * **Clash Royale Analiz Mobil Uygulaması:** Kotlin ile oyun API'sinden veri çekilerek geliştirilen mobil uygulama.
